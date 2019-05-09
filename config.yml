@@ -1,0 +1,11 @@
+dev:
+  project_code: KBANKPP_DEV
+  maintenance: false
+
+sit:
+  project_code: KBANKPP_SIT
+  maintenance: false
+
+prod:
+  project_code: KBANKPP_PROD
+  maintenance: false
